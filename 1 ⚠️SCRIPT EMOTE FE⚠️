@@ -869,24 +869,6 @@ local Emotes = {
 
 },
 
-	{ name = "Belly Dance", id = 114169581175296, icon = "rbxthumb://type=Asset&id=114169581175296&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
-
-	{ name = "Gojo Floating / The Honored One", id = 103040723950430, icon = "rbxthumb://type=Asset&id=103040723950430&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
-
-	{ name = "Soda Pop", id = 92233436300466, icon = "rbxthumb://type=Asset&id=92233436300466&w=150&h=150", price = 80, lastupdated = 1663281649, sort = {} },
-
-	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
-
-	{ name = "Jackpot Groove", id = 82739386299071, icon = "rbxthumb://type=Asset&id=82739386299071&w=150&h=150", price = 120, lastupdated = 1663281649, sort = {} },
-
-	{ name = "I WANNA RUN AWAY", id = 96361347184349, icon = "rbxthumb://type=Asset&id=96361347184349&w=150&h=150", price = 150, lastupdated = 1663281649, sort = {} },
-
-	{ name = "Aura Farming", id = 102878603660192, icon = "rbxthumb://type=Asset&id=102878603660192&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
-
-    { name = "Aura Farming", id = 133113167814737, icon = "rbxthumb://type=Asset&id=133113167814737&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
-
-	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
-
 	{ name = "Fashionable", id = 3576745472, icon = "rbxthumb://type=Asset&id=3576745472&w=150&h=150", price = 750, lastupdated = 1663281649, sort = {} },
 
 	{ name = "Swish", id = 3821527813, icon = "rbxthumb://type=Asset&id=3821527813&w=150&h=150", price = 750, lastupdated = 1663281651, sort = {} },
@@ -1386,6 +1368,58 @@ local Emotes = {
 	{ name = "TWICE What Is Love", id = 13344121112, icon = "rbxthumb://type=Asset&id=13344121112&w=150&h=150", price = 0, lastupdated = 1683906913, sort = {} },
 
 	{ name = "Shrug", id = 3576968026, icon = "rbxthumb://type=Asset&id=3576968026&w=150&h=150", price = 0, lastupdated = 1663281651, sort = {} },
+	
+    { name = "Big Hand Wave", id = 105209959441169, icon = "rbxthumb://type=Asset&id=105209959441169&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Big Hand Come Here", id = 73207157221470, icon = "rbxthumb://type=Asset&id=73207157221470&w=150&h=150", price = 120, lastupdated = 1663281649, sort = {} },
+
+	{ name = "OK Hand👌", id = 135039845376045, icon = "rbxthumb://type=Asset&id=135039845376045&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Giant hand grab (picks your head up)", id = 100768189512415, icon = "rbxthumb://type=Asset&id=100768189512415&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Airplane", id = 74076794591066, icon = "rbxthumb://type=Asset&id=74076794591066&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Lady Gaga - Abracadabra", id = 71245818535880, icon = "rbxthumb://type=Asset&id=71245818535880&w=150&h=150", price = 100, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Effortless Aura Pose", id = 101573394483995, icon = "rbxthumb://type=Asset&id=101573394483995&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Angel Flying (float)", id = 102256275785620, icon = "rbxthumb://type=Asset&id=102256275785620&w=150&h=150", price = 75, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Chill Flying Levitation", id = 117049327096718, icon = "rbxthumb://type=Asset&id=117049327096718&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Levitate", id = 87826892596287, icon = "rbxthumb://type=Asset&id=87826892596287&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Iconic Lay", id = 140160851481660, icon = "rbxthumb://type=Asset&id=140160851481660&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Laying Down - Daydreaming", id = 89174456614428, icon = "rbxthumb://type=Asset&id=89174456614428&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "[Aura Farm] Sit Idle", id = 122949892043249, icon = "rbxthumb://type=Asset&id=122949892043249&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Wall Lean", id = 88969192102242, icon = "rbxthumb://type=Asset&id=88969192102242&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Relaxed Sit", id = 99568437064777, icon = "rbxthumb://type=Asset&id=99568437064777&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "[Aura Farm] Wall Lean Idle", id = 110537281410647, icon = "rbxthumb://type=Asset&id=110537281410647&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Belly Dance", id = 114169581175296, icon = "rbxthumb://type=Asset&id=114169581175296&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Gojo Floating / The Honored One", id = 103040723950430, icon = "rbxthumb://type=Asset&id=103040723950430&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Soda Pop", id = 92233436300466, icon = "rbxthumb://type=Asset&id=92233436300466&w=150&h=150", price = 80, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Jackpot Groove", id = 82739386299071, icon = "rbxthumb://type=Asset&id=82739386299071&w=150&h=150", price = 120, lastupdated = 1663281649, sort = {} },
+
+	{ name = "I WANNA RUN AWAY", id = 96361347184349, icon = "rbxthumb://type=Asset&id=96361347184349&w=150&h=150", price = 150, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Aura Farming", id = 102878603660192, icon = "rbxthumb://type=Asset&id=102878603660192&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+    { name = "Aura Farming", id = 133113167814737, icon = "rbxthumb://type=Asset&id=133113167814737&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
 
 }
 
@@ -2007,4 +2041,5 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
+
 
