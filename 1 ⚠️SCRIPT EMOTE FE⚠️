@@ -869,6 +869,22 @@ local Emotes = {
 
 },
 
+	{ name = "Belly Dance", id = 114169581175296, icon = "rbxthumb://type=Asset&id=114169581175296&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Gojo Floating / The Honored One", id = 103040723950430, icon = "rbxthumb://type=Asset&id=103040723950430&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Soda Pop", id = 92233436300466, icon = "rbxthumb://type=Asset&id=92233436300466&w=150&h=150", price = 80, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Jackpot Groove", id = 82739386299071, icon = "rbxthumb://type=Asset&id=82739386299071&w=150&h=150", price = 120, lastupdated = 1663281649, sort = {} },
+
+	{ name = "I WANNA RUN AWAY", id = 96361347184349, icon = "rbxthumb://type=Asset&id=96361347184349&w=150&h=150", price = 150, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Aura Farming", id = 102878603660192, icon = "rbxthumb://type=Asset&id=102878603660192&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+    { name = "Aura Farming", id = 133113167814737, icon = "rbxthumb://type=Asset&id=133113167814737&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
 	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
 
 	{ name = "Fashionable", id = 3576745472, icon = "rbxthumb://type=Asset&id=3576745472&w=150&h=150", price = 750, lastupdated = 1663281649, sort = {} },
@@ -1991,3 +2007,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
+
