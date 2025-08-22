@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/2sWgTeR6"))()
+
 --- Keybind to open for pc is "comma" -> " , "
 
 loadstring(game:HttpGet("https://pastebin.com/raw/4pjYtZUf"))()
@@ -2063,6 +2065,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
+
 
 
 
