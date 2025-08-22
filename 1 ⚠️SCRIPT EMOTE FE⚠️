@@ -1420,6 +1420,26 @@ local Emotes = {
     { name = "Aura Farming", id = 133113167814737, icon = "rbxthumb://type=Asset&id=133113167814737&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
 
 	{ name = "Casual Sit", id = 94534169345613, icon = "rbxthumb://type=Asset&id=94534169345613&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+	
+    { name = "Speed Mirage", id = 121789523581713, icon = "rbxthumb://type=Asset&id=121789523581713&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Big Hand L", id = 111428721005568, icon = "rbxthumb://type=Asset&id=111428721005568&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Big Hand Point", id = 94396433692515, icon = "rbxthumb://type=Asset&id=94396433692515&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Big Hand No", id = 120614616017414, icon = "rbxthumb://type=Asset&id=120614616017414&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Yes (Finger Emote) 👍", id = 84138923135954, icon = "rbxthumb://type=Asset&id=84138923135954&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "NO", id = 102492339036121, icon = "rbxthumb://type=Asset&id=102492339036121&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Finger Pistol: Bang!", id = 111584123279339, icon = "rbxthumb://type=Asset&id=111584123279339&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Nope Finger (emote)", id = 77206866044608, icon = "rbxthumb://type=Asset&id=77206866044608&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Nuh Uh!", id = 104812721848315, icon = "rbxthumb://type=Asset&id=104812721848315&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
+
+	{ name = "Giant Hand Grab", id = 79393337579933, icon = "rbxthumb://type=Asset&id=79393337579933&w=150&h=150", price = 50, lastupdated = 1663281649, sort = {} },
 
 }
 
@@ -2041,5 +2061,6 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
+
 
 
