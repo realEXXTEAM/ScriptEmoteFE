@@ -1476,6 +1476,9 @@ local function addEmote(name, id, price, date)
     })
 end
 
+addEmote("SEIZURE", 132367660388476, 39, "Sep 27, 2025")
+addEmote("Panic Sit", 70979411692949, 39, "Sep 27, 2025")
+addEmote("Panic Run", 79338722896418, 39, "Sep 27, 2025")
 addEmote("[🔫]Finger-Gun", 138671863009472, 39, "Sep 21, 2025")
 addEmote("ACELERADA", 84204365810397, 39, "Aug 23, 2025")
 addEmote("PARROT PARTY DANCE", 121067808279598, 39, "Aug 08, 2025")
@@ -2065,6 +2068,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
+
 
 
 
