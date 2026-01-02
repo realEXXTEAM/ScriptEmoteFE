@@ -2020,16 +2020,3 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
-
-
-
-
-
-
-
-
-
-
-
-
-
