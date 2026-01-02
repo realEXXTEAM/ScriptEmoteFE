@@ -853,24 +853,6 @@ local function WaitForChildOfClass(parent, class)
 end
 
 local Emotes = {
-
-	{ name = "Around Town", id = 3576747102, icon = "rbxthumb://type=Asset&id=3576747102&w=150&h=150", price = 1000, lastupdated = 1663264200, sort = {} },	
-{
-
-    name = "TWICE TAKEDOWN DANCE 2",
-
-    id = 85623000473425,
-
-    icon = "rbxthumb://type=Asset&id=85623000473425&w=150&h=150",
-
-    price = 100,
-
-    lastupdated = 1752192000,
-
-    sort = {}
-
-},
-
 	{ name = "Fashionable", id = 3576745472, icon = "rbxthumb://type=Asset&id=3576745472&w=150&h=150", price = 750, lastupdated = 1663281649, sort = {} },
 
 	{ name = "Swish", id = 3821527813, icon = "rbxthumb://type=Asset&id=3821527813&w=150&h=150", price = 750, lastupdated = 1663281651, sort = {} },
@@ -1483,8 +1465,6 @@ addEmote("SEIZURE", 132367660388476, 39, "Sep 27, 2025")
 addEmote("Panic Sit", 70979411692949, 39, "Sep 27, 2025")
 addEmote("Panic Run", 79338722896418, 39, "Sep 27, 2025")
 addEmote("[🔫]Finger-Gun", 138671863009472, 39, "Sep 21, 2025")
-
-
 addEmote("ACELERADA", 84204365810397, 39, "Aug 23, 2025")
 addEmote("PARROT PARTY DANCE", 121067808279598, 39, "Aug 08, 2025")
 addEmote("Dance n' Prance", 99031916674986, 39, "Aug 08, 2025")
@@ -1516,26 +1496,14 @@ addEmote("Hakari Dance", 80270168146449, 39, "Aug 08, 2025")
 addEmote("Addendum Dance [R6]", 134442882516163, 39, "Aug 09, 2025")
 addEmote("Gangnam Style", 77205409178702, 39, "Aug 08, 2025")
 addEmote("Push-Up", 117922227854118, 39, "Aug 09, 2025")
-
-
 addEmote("Split", 98522218962476, 39, "Aug 08, 2025")
-
 addEmote("PROXIMA", 81390693780805, 39, "Aug 08, 2025")
-
-
 addEmote("HeadBanging", 87447252507832, 39, "Aug 08, 2025")
-
-
 addEmote("Assumptions", 127507691649322, 39, "Aug 08, 2025")
-
 addEmote("Jumpstyle", 99563839802389, 39, "Aug 08, 2025")
-
-
 addEmote("Flopping Fish", 133142324349281, 39, "Aug 08, 2025")
 addEmote("Kicking Feet Sit", 78758922757947, 39, "Aug 08, 2025")
-
 addEmote("Fancy Feets", 124512151372711, 39, "Aug 08, 2025")
-
 addEmote("Cute Sit", 90244178386698, 39, "Aug 08, 2025")
 addEmote("Absolute Cinema", 97258018304125, 39, "Aug 08, 2025")
 addEmote("Bubbly Sit", 112758073578333, 39, "Aug 08, 2025")
@@ -1584,11 +1552,8 @@ addEmote("Stylish Float", 97497383284399, 39, "Aug 15, 2025")
 addEmote("SpongeBob Shuffle", 107899954696611, 39, "Aug 15, 2025")
 addEmote("Electro Shuffle", 96426537876059, 39, "Aug 13, 2025")
 addEmote("Foreign Shuffle", 101507732056031, 39, "Aug 13, 2025")
-
-
 addEmote("Caipirinha", 100165303717371, 39, "Aug 15, 2025")
 addEmote("Squidward Yell", 109244554368414, 39, "Aug 15, 2025")
-
 addEmote("Hakari (Forsaken)", 73271793399763, 39, "Aug 15, 2025")
 addEmote("Teto Dance", 93031502567721, 39, "Aug 15, 2025")
 addEmote("Michael Myers", 88229016850146, 39, "Aug 15, 2025")
@@ -1603,17 +1568,12 @@ addEmote("lemon melon cookie - Miku",79874689836683 , 39, "Aug 16, 2025")
 addEmote("Cute Jump",80556794144838, 39, "Aug 16, 2025")
 addEmote("Billy Bounce", 126516908191316, 39, "Aug 15, 2025")
 addEmote("What U Want / Prince Egypt", 133751526608969, 39, "Aug 15, 2025")
-
-
-
 addEmote("Rabbit Hole - Miku", 133481721436918, 39, "Aug 15, 2025")
 addEmote("Garou", 86200585395371, 39, "Aug 09, 2025")
-
 addEmote("Dio Pose", 76736978166708, 39, "Aug 09, 2025")
 addEmote("Golden Freddy", 122463450997235, 39, "Aug 09, 2025")
 addEmote("Noclip, Speed", 137006085779408, 39, "Aug 09, 2025")
 addEmote("Static [Hatsune Miku]", 84534006084837, 39, "Aug 09, 2025")
-
 addEmote("GOALL", 78830825254717, 39, "Aug 09, 2025")
 addEmote("Lethal Dance", 77108921633993, 39, "Aug 09, 2025")
 addEmote("Plug Walk", 100359724990859, 39, "Aug 09, 2025")
@@ -1625,10 +1585,8 @@ addEmote("Aura Farm Boat", 88042995626011, 39, "Aug 09, 2025")
 addEmote("Prince Of Egypt", 134063402217274, 39, "Aug 08, 2025")
 addEmote("Jersey Joe2", 115782117564871, 39, "Aug 09, 2025")
 addEmote("Deltarune - Tenna Dance", 73715378215546, 39, "Aug 08, 2025")
-
 addEmote("California Girl", 132074413582912, 39, "Aug 08, 2025")
 addEmote("Default Dance", 80877772569772, 39, "Aug 08, 2025")
-
 addEmote("Shocked meme", 129501229484294, 39, "Aug 08, 2025")
 addEmote("Family Guy", 78459263478161, 39, "Aug 08, 2025")
 addEmote("Car Transformation", 96887377943085, 39, "Aug 08, 2025")
@@ -1640,21 +1598,10 @@ addEmote("Be Not Afraid", 70635223083942, 39, "Aug 08, 2025")
 addEmote("Macarena", 91274761264433, 39, "Aug 08, 2025")
 addEmote("Helicopter2", 119431985170060, 39, "Aug 08, 2025")
 addEmote("RONALDO", 97547486465713, 39, "Aug 08, 2025")
-
-
-
 addEmote("Nya Anime Dance", 126647057611522, 39, "Aug 08, 2025")
 addEmote("Do that thang", 113772829398170, 39, "Aug 08, 2025")
 addEmote("Squat?", 95441477641149, 39, "Aug 08, 2025")
 addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
-
-
-
-
-
-
-
-
 
 
 
@@ -2073,6 +2020,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 
 game.Players.LocalPlayer.PlayerGui.ContextActionGui:Destroy()
+
 
 
 
